@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="application_name">Server</string>
+
+    <string name="start_server">Spustit</string>
+    <string name="stop_server">Zastavit</string>
+
+    <string name="open_camera">Kamera</string>
+
+    <string name="thread_count_empty">Server spuštěn na 1 vlákně</string>
+    <string name="thread_count_ok">Server spuštěn</string>
+
+    <string name="stream_start">Spustit stream</string>
+    <string name="stream_stop">Ukončit stream</string>
+    <string name="server_stopped">Server ukončen</string>
+
+    <string name="snapshot">Snapshot</string>
+
+    <string name="path">Trasa:</string>
+    <string name="size">Velikost:</string>
+    <string name="type">Typ:</string>
+    <string name="total">Celková velikost:</string>
+    <string name="count">Počet vláken:</string>
+    <string name="hint">1</string>
+
+</resources>
